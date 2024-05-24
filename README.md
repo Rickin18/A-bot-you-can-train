@@ -1,0 +1,1 @@
+This is a bot you can train - you ask it a question and it will not know the answer and will ask you for the answer. The bot will assume your answer and when you ask it again, it will repeat the answer. You can choose to skip the answer. All knowledge is stored in a JSON file. The JSON file can be cleared using the 'clear' command 
